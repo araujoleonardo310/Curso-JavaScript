@@ -2,7 +2,7 @@
 
 ## Objetivo
 
->Aprender linguagem JavaScript, realizando as atividades isponibizadas pelo professor ao longo dp percurso.
+>Aprender linguagem JavaScript, realizando as atividades isponibizadas pelo professor ao longo do percurso.
 
 ## Grade
 
