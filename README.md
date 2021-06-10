@@ -10,6 +10,7 @@
 * Variáveis e tipos de dados
 * Métodos: alert, confirm, prompt e document.write
 * Trabalhando com Constantes
+* Operdore Aritméticos
 
 ## 🔗Referência
 
