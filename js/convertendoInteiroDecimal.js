@@ -22,4 +22,9 @@ document.write("Valor de c: " + c + "<br>");
 // Escolhendo o número de casas
 
 d = 10.65789;
-document.write("<br>O valor de d é " + d.toFixed(2));
+document.write("<br>O valor de d é " + d.toFixed(2) + "<br>");
+
+// Delimitando o numero de casas
+
+f = 10.65789;
+document.write("<br>O valor de d é " + f.toPrecision(10) + "<br>");
